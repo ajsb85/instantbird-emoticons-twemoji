@@ -1,6 +1,6 @@
-# Unicode Emojis for Pidgin
+# Twitter Unicode Emojis for Pidgin
 
-This repository contains three sets of emojis:
+This repository contains the twitter official emojis as a pidgin emoji pack:
 
 *  original Apple Color Emojis
    as used in iOS
@@ -20,7 +20,9 @@ Other chat partners might want to install either the Symbola or Android TrueType
 *  http://en.wikipedia.org/wiki/Emoji
 *  http://apps.timwhitlock.info/emoji/tables/unicode
 
-#### Licence
+#### License
+
+Twitter emoji images are taken from it [official github project]().
 
 Apple Emoji images are taken from [Github's gemoji](https://github.com/github/gemoji) project. The icons are copyright of Apple Inc. See the license for details.
 
