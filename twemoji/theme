@@ -1,7 +1,7 @@
-Name=Android Emoji
-Description=Original Android Emoji mapping to Unicode 6 characters
+Name=Twitter Emoji
+Description=Twitter Unicode Emojis for Pidgin
 Icon=1f601.png
-Author=Steffen Vogel
+Author=Luis Alejandro Martínez Faneyth
 
 [default]
 263a.png	☺	
